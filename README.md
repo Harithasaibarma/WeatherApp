@@ -39,3 +39,10 @@ A sleek and user-friendly weather web application that helps you check the curre
 
    ```bash
    git clone https://github.com/yourusername/weather-app.git
+2.Open the project folder and launch index.html in your browser.
+
+3.Start exploring:
+
+Type a city name or click “My Location” to get current weather.
+
+Use the buttons in the header to switch to 5-day forecast, toggle dark mode, or use voice search.
