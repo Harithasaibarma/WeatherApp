@@ -39,19 +39,18 @@ A sleek and user-friendly weather web application that helps you check the curre
 
    ```bash
    git clone https://github.com/Harithasaibarma/weather-app.git
-2.Open index.html in your browser.
-3.Enter a city name or use the "My Location" button to get weather details.
-4.Use the buttons to toggle features like 5-day forecast, dark mode, and voice search.
+2.**Open index.html in your browser.**
+3.**Enter a city name or use the "My Location" button to get weather details.**
+4.**Use the buttons to toggle features like 5-day forecast, dark mode, and voice search.**
 
-###API Key Setup
+🔑 API Setup
 
-The app uses the OpenWeatherMap API. You need to get your own free API key:
-Sign up at OpenWeatherMap.
-Go to your account dashboard and generate an API key.
-Replace the apiKey variable value in script.js with your key.
+**The app uses the OpenWeatherMap API. You need to get your own free API key:**
+**Sign up at OpenWeatherMap.**
+**Go to your account dashboard and generate an API key.**
+**Replace the apiKey variable value in script.js with your key.**
 
-Author: Haritha Sai Barama
-LinkedIn: linkedin.com/in/haritha-sai-barama
-6167a525b    
-GitHub: https://github.com/Harithasaibarma   
+**Author: Haritha Sai Barama**
+**LinkedIn: linkedin.com/in/haritha-sai-barama6167a525b**
+**GitHub: https://github.com/Harithasaibarma**
 
